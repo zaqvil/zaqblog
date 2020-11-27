@@ -1,2 +1,2 @@
 # zaqblog
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![zaqvil's github stats](https://github-readme-stats.vercel.app/api?username=zaqvil&count_private=true)
